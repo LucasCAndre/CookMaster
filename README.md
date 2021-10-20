@@ -24,5 +24,6 @@
 ```javascript
   npm start
 ```
+A conexão com o banco de dados é feita atravez do arquivo models/connection.js utilizando o mongodb, porém o banco de dados pode ser alterado de acordo com a preferencia alterando apenas esse arquivo.
 ---
 
